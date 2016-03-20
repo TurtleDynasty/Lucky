@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "turtledynasty@gmail.com",
+    "enableMultiJS": false,
+    "longName": "Lucky",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Lucky",
+    "uuid": "66483cec-9b4c-4767-8c87-9a8514efe549",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
